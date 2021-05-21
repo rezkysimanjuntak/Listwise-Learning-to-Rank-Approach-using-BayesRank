@@ -28,4 +28,5 @@ NDGC Average    :  0.624818
 ```
 
 
-### Dataset
+### Credit
+https://github.com/liyinxiao/LambdaRankNN
