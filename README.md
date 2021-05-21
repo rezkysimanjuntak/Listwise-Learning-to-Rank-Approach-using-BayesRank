@@ -29,4 +29,6 @@ NDGC Average    :  0.624818
 
 
 ### Credit
-https://github.com/liyinxiao/LambdaRankNN
+Proyek ini mendapat inspirasi dari proyek berikut:
+[Yinxiao Li](https://github.com/liyinxiao)
+[LambdaRankNN](https://github.com/liyinxiao/LambdaRankNN)
