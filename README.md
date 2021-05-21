@@ -1,5 +1,5 @@
 # Pairwise-Learning-to-Rank-Approach-using-LambdaRank
-_Learning to Rank_ merupakan salah satu masalah machine learning yang tujuannya adalah untuk membangun suatu model perangkingan dari data pembelajaran sehingga diperoleh urutan yang memiliki relevansi dan preferensi yang optimal. **LambdaRank** pada IR (Information Retrieval) mampu memecahkan masalah dengan menentukan gradien dari biaya yang diberikan di tempat tujuan. **LambdaRank** memperoleh hasil yang lebih baik saat memperkuat gradien dengan perubahan NDCG yang muncul akibat dari pertukaran dokumen.
+_Learning to Rank_ merupakan salah satu masalah machine learning yang tujuannya adalah untuk membangun suatu model perangkingan dari data pembelajaran sehingga diperoleh urutan yang memiliki relevansi dan preferensi yang optimal. **LambdaRank** pada IR (_Information Retrieval_) mampu memecahkan masalah dengan menentukan gradien dari biaya yang diberikan di tempat tujuan. **LambdaRank** memperoleh hasil yang lebih baik saat memperkuat gradien dengan perubahan NDCG yang muncul akibat dari pertukaran dokumen.
 
 ### Dataset
 Million queries dataset from Microsoft LETOR 4.0 2008 :
