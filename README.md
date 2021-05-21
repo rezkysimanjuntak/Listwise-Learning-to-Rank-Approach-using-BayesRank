@@ -1,1 +1,1 @@
-# Listwise-Learning-to-Rank-Approach-using-BayesRank
+# Pairwise-Learning-to-Rank-Approach-using-LambdaRank
