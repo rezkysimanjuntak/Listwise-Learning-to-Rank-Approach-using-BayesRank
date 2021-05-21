@@ -2,7 +2,7 @@
 
 
 ### Dataset
-Million queries dataset from TREC 2008 :
+Million queries dataset from Microsoft LETOR 4.0 2008 :
 [MQ2008](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/#!letor-4-0)
 
 ### Parameter
