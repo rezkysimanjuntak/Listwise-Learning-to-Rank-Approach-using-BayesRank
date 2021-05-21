@@ -15,6 +15,15 @@ activation : ('relu', 'relu',)
 solver : 'adam'
 ...
 ```
+### Hasil Prediksi NDGC
+```
+NDGC for fold 1 :  0.622
+NDGC for fold 2 :  0.654
+NDGC for fold 3 :  0.64
+NDGC for fold 4 :  0.615
+NDGC for fold 5 :  0.593
+NDGC Average : 0.625
+```
 
 ### Hasil Evaluasi 
 
