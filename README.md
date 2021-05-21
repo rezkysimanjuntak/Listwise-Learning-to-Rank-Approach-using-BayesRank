@@ -6,7 +6,7 @@ Million queries dataset from Microsoft LETOR 4.0 2008 :
 [MQ2008](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/#!letor-4-0)
 
 ### Parameter
-Untuk membangun model perankingan digunakan library XGBoost yang memanfaatkan _packages_ XGBRanker dimana parameter yang digunakan adalah sebagai berikut:
+Untuk membangun model perankingan digunakan library Tensorflow yang memanfaatkan _packages_ Keras untuk melakukan fungsi perangkingan dimana parameter yang digunakan adalah sebagai berikut :
 ```
 ...
 input_size : X_train.shape[1
@@ -15,7 +15,8 @@ activation : ('relu', 'relu',)
 solver : 'adam'
 ...
 ```
-### Hasil PPerolehan Nilai NDGC
+
+### Hasil Perolehan Nilai NDGC
 ```
 NDGC for fold 1 :  0.621774
 NDGC for fold 2 :  0.654353
